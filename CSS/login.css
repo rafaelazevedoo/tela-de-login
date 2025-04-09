@@ -44,3 +44,18 @@ label {
     font-size: 0.9rem;
     font-weight: 500;
 }
+
+input-group {
+    position: relative;
+}
+
+input {
+    width: 100%;
+    padding: 1rem;
+    background-color: var(--input-bg);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: var(--border-radius);
+    color: var(--text-primary);
+    font-size: 1rem;
+    transition: var(--transition);
+}
