@@ -19,3 +19,28 @@
     background: linear-gradient(90deg, var(--primary-color),#9c88ff;
 
 }
+
+header {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+   color: var(--primary-color);
+}
+
+.subtitle {
+    color: var(--text-secundary);
+    font-size: 0.95rem;
+}
+
+label {
+    display: flex;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
