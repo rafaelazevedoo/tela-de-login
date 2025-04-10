@@ -54,3 +54,4 @@ body::after {
     width: 350px;
     background: linear-gradient(45deg, var(--primary-color), transparent);
     opacity: 0.3;
+}
